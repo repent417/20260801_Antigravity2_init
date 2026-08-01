@@ -1,0 +1,17 @@
+# Temporary & Log files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Sensitive & Personal exports
+notebooks.json
+*.env
+*.pem
+*.key
+
+# AntiGravity / IDE local caches
+.gemini/
+.antigravity/
+__pycache__/
+node_modules/
