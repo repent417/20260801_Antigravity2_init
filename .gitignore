@@ -10,8 +10,10 @@ notebooks.json
 *.pem
 *.key
 
-# AntiGravity / IDE local caches
+# AntiGravity / IDE local caches & media assets
 .gemini/
 .antigravity/
 __pycache__/
 node_modules/
+assets/
+
