@@ -7,7 +7,9 @@ AntiGravity 2.0 專案初始化與懶人包設定倉庫。
 - `skills/`：已配置的 AntiGravity 懶人包 Skills
   - `01-notebooklm`：連接 NotebookLM MCP
   - `02-github`：連接 GitHub CLI
+  - `03-firebase`：連接 Firebase MCP
   - `04-draw`：生圖指引
+
   - `05-workflow`：開工/收工/新專案初始化
   - `06-obsidian`：連接 Obsidian MCP (MCPVault)
   - `rdq`：RDQ Method 需求探索四象限法訪談技能
